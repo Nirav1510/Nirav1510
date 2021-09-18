@@ -11,7 +11,6 @@
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nirav1510&theme=algolia(https://git.io/streak-stats)" alt="nirav1510"/></p>
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nirav1510&theme=algolia)](https://git.io/streak-stats) -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nirav1510&theme=algolia)](https://git.io/streak-stats)
 
 
 ## 🛠️ My Skills
