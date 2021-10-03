@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Nirav <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;DS%20|%20Algo%20|%20Blockchain%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>	
-</p>
+</p> -->
 <div align="center"><img src="https://github.com/Nirav1510/Nirav1510/blob/main/work.gif?raw=true" height=200/></div>
 <hr/>
 <h4 align="center">I am a Final year student at IIT Guwahati B.Tech in Civil Engineering. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love exchanging ideas and spreading knowledge and positivity.</h4>
