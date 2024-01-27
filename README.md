@@ -4,7 +4,7 @@
 </p>
 <div align="center"><img src="https://github.com/Nirav1510/Nirav1510/blob/main/work.gif?raw=true" height=200/></div>
 <hr/>
-<h4 align="center">I am a Final year student at IIT Guwahati B.Tech in Civil Engineering. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="center">I am a passionate developer who enjoys the realms of coding, design, innovation, and experimentation. As an enthusiastic and social individual, I thrive on embracing new challenges and acquiring new skills. My love for exchanging ideas and fostering the dissemination of knowledge and positivity fuels my professional journey.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nirav1510&label=Profile%20views&color=0e75b6&style=plastic" alt="nirav1510" /> </p>
 
