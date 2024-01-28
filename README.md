@@ -93,14 +93,6 @@
 </details>
 
 
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/Nirav1510"><img alt="Nirav's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nirav1510&custom_title=Nirav%20Gusai's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
-
 <br/>
 
 ## 🙋‍♀️ Let's Connect
