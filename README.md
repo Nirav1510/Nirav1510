@@ -6,7 +6,7 @@
 <hr/>
 <h4 align="center">I am a passionate developer who enjoys the realms of coding, design, innovation, and experimentation. As an enthusiastic and social individual, I thrive on embracing new challenges and acquiring new skills. My love for exchanging ideas and fostering the dissemination of knowledge and positivity fuels my professional journey.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nirav1510&label=Profile%20views&color=0e75b6&style=plastic" alt="nirav1510" /> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=nirav1510&label=Profile%20views&color=0e75b6&style=plastic" alt="nirav1510" /> </p> -->
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=nirav1510&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="nirav1510"/></p>
